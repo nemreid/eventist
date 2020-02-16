@@ -1,0 +1,30 @@
+.content {
+    background: rgb(162, 209, 131) url("/images/out_place.jpg") no-repeat;
+    background-size: cover;
+    height: 87%;
+    margin: 0;
+    padding: 0;
+}
+
+#autocomplete {
+    max-width: 98%;
+}
+
+#map {
+    height: 95%;
+    width:90%;
+}
+
+#logo {
+    max-width: 2%;
+}
+
+footer {
+    max-height: 8%;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
